@@ -1,9 +1,13 @@
 {
   "name": "concat-files-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Concatenate files asynchronously from command line",
   "main": "index.js",
   "scripts": {},
   "author": "Kostia Svystun <aarbmx6s@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "concat-files-cli": "./bin/concat-files-cli.js"
+  },
+  "preferGlobal": true
 }
