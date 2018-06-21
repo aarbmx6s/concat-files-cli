@@ -1,14 +1,26 @@
 {
-  "name": "concat-files-cli",
-  "version": "0.1.5",
-  "description": "Concatenate files asynchronously from command line",
-  "main": "index.js",
-  "scripts": {},
-  "repository": "git@github.com:aarbmx6s/concat-files-cli.git",
-  "author": "Kostia Svystun <aarbmx6s@gmail.com>",
-  "license": "MIT",
-  "bin": {
-    "concat-files-cli": "./bin/concat-files-cli.js"
-  },
-  "preferGlobal": true
+    "name": "concat-files-cli",
+    "version": "0.1.6",
+    "description": "Concatenate files asynchronously from command line",
+    "keywords": [
+        "concat-files-cli",
+        "concat-files",
+        "concat-cli",
+        "concat",
+        "files",
+        "cli",
+        "concatenate",
+        "folder",
+        "css",
+        "js"
+    ],
+    "main": "index.js",
+    "scripts": {},
+    "repository": "git@github.com:aarbmx6s/concat-files-cli.git",
+    "author": "Kostia Svystun <aarbmx6s@gmail.com>",
+    "license": "MIT",
+    "bin": {
+        "concat-files-cli": "./bin/concat-files-cli.js"
+    },
+    "preferGlobal": true
 }
