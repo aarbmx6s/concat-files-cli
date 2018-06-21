@@ -4,6 +4,7 @@
   "description": "Concatenate files asynchronously from command line",
   "main": "index.js",
   "scripts": {},
+  "repository": "git@github.com:aarbmx6s/concat-files-cli.git",
   "author": "Kostia Svystun <aarbmx6s@gmail.com>",
   "license": "MIT",
   "bin": {
