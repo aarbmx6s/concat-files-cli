@@ -1,6 +1,6 @@
 {
   "name": "concat-files-cli",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "Concatenate files asynchronously from command line",
   "main": "index.js",
   "scripts": {},

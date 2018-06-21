@@ -191,4 +191,4 @@ module.exports.cli = function (argv) {
     parseArguments(argv).then(checkArguments).then(run).then(onComplete).catch(onError);
 };
 
-if ( require.main ) module.exports.cli(process.argv);
+// if ( require.main ) module.exports.cli(process.argv);
